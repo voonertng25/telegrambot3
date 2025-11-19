@@ -14,7 +14,7 @@
   "sheetName": "WEI JIAN",
   "commSec": "WEI JIAN",
   "nor": "REGULAR",
-  "rankINT": 11,
+  "rankINT": 9,
   "displayNoStatus": "CPT WEI JIAN"
  },
 {
@@ -23,7 +23,7 @@
   "sheetName": "BAO YUAN",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 11,
+  "rankINT": 9,
   "displayNoStatus": "CPT BAO YUAN"
  },
  {
@@ -32,7 +32,7 @@
   "sheetName": "RICHMOND",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 10,
+  "rankINT": 9,
   "displayNoStatus": "LTA RICHMOND"
  },
   {
@@ -41,7 +41,7 @@
   "sheetName": "JESPER",
   "commSec": "NIL",
   "nor": "REGULAR",
-  "rankINT": 10,
+  "rankINT": 9,
   "displayNoStatus": "LTA JESPER"
  },
  {
@@ -51,7 +51,7 @@
   "commSec": "NIL",
   "nor": "NSF",
   "rankINT": 9,
-  "displayNoStatus": "2LT JORDAN"
+  "displayNoStatus": "2LT JORDON"
  },
    {
   "rank": "2LT",
